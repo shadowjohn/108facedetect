@@ -1,0 +1,6 @@
+此目錄放屁孩的照片
+照片請用 .jpg
+如果有多張，請命名為 
+john#1.jpg
+john#2.jpg
+john#3.jpg 
